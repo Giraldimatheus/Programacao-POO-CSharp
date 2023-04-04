@@ -1,0 +1,8 @@
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\bin\Debug\ByteBank3.exe.config
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\bin\Debug\ByteBank3.exe
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\bin\Debug\ByteBank3.pdb
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\obj\Debug\ByteBank3.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\obj\Debug\ByteBank3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\obj\Debug\ByteBank3.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\obj\Debug\ByteBank3.exe
+C:\Users\mhgir\source\repos\ByteBank3\ByteBank3\obj\Debug\ByteBank3.pdb
